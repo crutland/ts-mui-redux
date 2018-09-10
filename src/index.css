@@ -1,0 +1,18 @@
+html, body {
+  font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+html, body {
+  height: 100%;
+}
+
+div#root {
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+main#main {
+  flex: 1 1 auto;
+  overflow: auto;
+}
