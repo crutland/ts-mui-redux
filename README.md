@@ -1,5 +1,5 @@
 # Amherst Typescript React Template
-## With Redux, Redux Saga, and Material UI *using Amherst Branding*
+## With Redux, Redux Saga, and Material UI using Amherst Branding
 
 ## Getting Started
 
