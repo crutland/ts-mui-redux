@@ -1,3 +1,30 @@
+# Amherst Typescript React Template
+## With Redux, Redux Saga, and Material UI *using Amherst Branding*
+
+## Getting Started
+
+Clone this repository to a local repo, then delete the `.git` folder from the clone.
+
+Open the following files and replace the template name with your project name:
+
+* `./package.json` (replate package name)
+* `./.env` (REACT_APP_DEFAULT_TITLE)
+* `./public/manifest.json` (short_name, name)
+* `README.md`
+
+Run the following commands:
+
+    npm install
+    npm run start
+
+If you have [Yarn](http://yarnpkg.com) installed, use the following command instead:
+
+    yarn
+    yarn start
+
+
+# Original Create-React-App Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
